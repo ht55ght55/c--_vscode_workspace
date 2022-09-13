@@ -4,5 +4,9 @@
       "path": "."
     }
   ],
-  "settings": {}
+  "settings": {
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+     
+  }
 }
